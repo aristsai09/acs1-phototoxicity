@@ -1,0 +1,25 @@
+{
+  "creators": [
+    {
+      "name": "Tsai, Aris",
+      "orcid": "0009-0004-8641-7647",
+      "affiliation": "Stanford Online High School, Stanford University"
+    }
+  ],
+  "title": "Excited-State Photophysics Improves Scaffold-Robust Phototoxicity Prediction and Reveals Compound-Specific State Effects: Reproducibility Archive",
+  "version": "1.0.0",
+  "access_right": "open",
+  "upload_type": "software",
+  "language": "eng",
+  "keywords": [
+    "phototoxicity",
+    "photosafety",
+    "excited states",
+    "molecular microstates",
+    "sTDA",
+    "Q-Chem",
+    "machine learning",
+    "scaffold cross-validation"
+  ],
+  "description": "Code, frozen out-of-fold predictions, statistical analyses, computed molecular-state tables, higher-level Q-Chem validation summaries, completed matched-state Q-Chem input/output records, environment manifests, and publication figures supporting a computational study of excited-state-aware phototoxicity prediction."
+}
