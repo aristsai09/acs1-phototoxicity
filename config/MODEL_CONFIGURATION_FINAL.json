@@ -1,0 +1,26 @@
+{
+  "scope": "ACS1 phototoxicity only",
+  "fingerprint": {
+    "type": "Morgan",
+    "radius": 2,
+    "n_bits": 2048
+  },
+  "classifier": {
+    "class": "ExtraTreesClassifier",
+    "n_estimators": 700,
+    "min_samples_leaf": 2,
+    "class_weight": "balanced",
+    "max_features": "sqrt",
+    "n_jobs": 4
+  },
+  "base_random_seed": 20260907,
+  "cv": {
+    "type": "StratifiedGroupKFold",
+    "groups": "Bemis-Murcko scaffold",
+    "n_splits": 5,
+    "shuffle": true,
+    "final_locked_repeats": 10
+  },
+  "classification_threshold": 0.5,
+  "provenance_note": "Recovered base pipeline config records 5 repeats; final locked robustness outputs contain 10 repeats. Exact final repeat/fold IDs and OOF probabilities are distributed and are authoritative."
+}
