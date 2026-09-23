@@ -1,0 +1,9 @@
+compound,state,state_id,method,S1_eV,osc_strength_S1,T1_eV,SOC_S1_T1_cm-1,source_jobs,DeltaEST_eV
+2-Ethylanthraquinone,reference quinone,S00_9bc03f1eeac0,wB97X-D/def2-SVP/SMD(water),3.4507,1.4848e-06,3.0277,0.157518,4106/4118,0.42300000000000004
+2-Ethylanthraquinone,alternate neutral tautomer,S01_11d2c1231159,wB97X-D/def2-SVP/SMD(water),3.2968,0.226335,1.9154,0.12068,4107/4119,1.3814000000000002
+Ketoprofen,neutral acid,S00_70920b10cc87,wB97X-D/def2-SVP/SMD(water),4.0868,0.001725,3.5123,13.7224,4108/4120,0.5745
+Ketoprofen,anion,S01_b429e4d86fc6,wB97X-D/def2-SVP/SMD(water),4.0499,0.001583,3.4606,15.103,4109/4121,0.5893000000000002
+Pradofloxacin,parent,S00_4c51a88bc534,wB97X-D/6-31G(d)/SMD(water),3.9783,0.3658687,2.8873,,4149/4153,1.0909999999999997
+Pradofloxacin,zwitterion,S02_8d6e0ac4175c,wB97X-D/6-31G(d)/SMD(water),3.9428,0.4189453,2.9226,,4150/4154,1.0202
+Avobenzone,reference enol-like state,S00_5cebd28f9119,wB97X-D/6-31G(d)/SMD(water),4.14,1.213714,2.9257,,4151/4155,1.2142999999999997
+Avobenzone,alternate keto-like state,S02_8a1a0b7e39b9,wB97X-D/6-31G(d)/SMD(water),4.0425,0.0202534,3.4118,,4152/4156,0.6307000000000005
