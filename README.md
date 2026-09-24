@@ -1,5 +1,7 @@
 # Excited-State Photophysics for Scaffold-Robust Phototoxicity Prediction
 
+**Archived release DOI:** https://doi.org/10.5281/zenodo.22927367
+
 Reproducibility repository for the ACS1 phototoxicity study:
 
 **Excited-State Photophysics Improves Scaffold-Robust Phototoxicity Prediction and Reveals Compound-Specific State Effects**
